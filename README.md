@@ -11,6 +11,8 @@ cd myproject
 # Install NPM dependencies
 npm install
 
-# Then simply start your app
+# Start your app
 npm start
+
+# Then load http://localhost:3000/ in your browser to access the app.
 ```
