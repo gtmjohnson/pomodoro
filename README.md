@@ -12,5 +12,5 @@ cd myproject
 npm install
 
 # Then simply start your app
-node app.js
+npm start
 ```
